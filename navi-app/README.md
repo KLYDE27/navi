@@ -14,7 +14,7 @@ This project requires both the backend server and the frontend app to be running
 2. Install dependencies and start the server:
    ```bash
    npm install
-   node index.js
+   node server.js
    ```
    *Note: Ensure you have a `.env` file with `GOOGLE_GEN_AI_KEY` and `AZURE_SPEECH_KEY`.*
 
