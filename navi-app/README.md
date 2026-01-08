@@ -4,14 +4,30 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+This project requires both the backend server and the frontend app to be running.
 
+### 1. Setup the Backend
+1. Navigate to the backend folder:
    ```bash
+   cd backend
+   ```
+2. Install dependencies and start the server:
+   ```bash
+   npm install
+   node index.js
+   ```
+   *Note: Ensure you have a `.env` file with `GOOGLE_GEN_AI_KEY` and `AZURE_SPEECH_KEY`.*
+
+### 2. Setup the App
+Open a new terminal window.
+
+1. Navigate to the app folder and install dependencies:
+   ```bash
+   cd navi-app
    npm install
    ```
 
-2. Start the app
-
+2. Start the app:
    ```bash
    npx expo start
    ```
