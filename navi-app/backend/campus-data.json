@@ -1,0 +1,402 @@
+[
+    {
+      "id": "tor-process",
+      "text": "To request a Transcript of Records (TOR), visit the Registrar's Office at the Main Campus or apply online via the ODRS. Processing takes 15-20 working days.",
+      "category": "General"
+    },
+    {
+      "id": "main-registrar-office",
+      "text": "The University Registrar's Office is located at the Ground Floor of the Main Building, Sta. Mesa Campus. Open 8:00 AM to 5:00 PM.",
+      "category": "General"
+    },
+    {
+      "id": "accounting-cashier",
+      "text": "The Accounting/Cashier's Office handles all fee payments. Located at the Main Building Ground Floor. Hours: 8:00 AM to 5:00 PM.",
+      "category": "General"
+    },
+    {
+      "id": "student-services-main",
+      "text": "The Office of Student Services (OSS) is at the Student Center Building. Handles IDs, organizations, scholarships, and complaints.",
+      "category": "General"
+    },
+    {
+      "id": "main-library",
+      "text": "The PUP Main Library is at the center of Sta. Mesa Campus. Requires validated ID. Open 8:00 AM to 7:00 PM on weekdays.",
+      "category": "General"
+    },
+    {
+      "id": "university-clinic",
+      "text": "The University Health Service provides free medical and dental care. Located near the Main Gate. Bring validated ID.",
+      "category": "General"
+    },
+    {
+      "id": "guidance-counseling",
+      "text": "Guidance Office offers counseling, testing, and career services. Located at the Student Center. Appointments recommended.",
+      "category": "General"
+    },
+    {
+      "id": "it-helpdesk",
+      "text": "ICT Office handles email, SIS, and WiFi issues. Located at the Computer Center. Submit tickets via PUP Helpdesk portal.",
+      "category": "General"
+    },
+    {
+      "id": "security-office",
+      "text": "Security Office operates 24/7. Emergency hotline posted at gates. Lost items go to Main Gate security.",
+      "category": "General"
+    },
+    {
+      "id": "online-document-system",
+      "text": "ODRS (Online Document Request System) allows remote requests for TOR, diploma, and certifications. Access via PUP portal.",
+      "category": "General"
+    },
+    {
+      "id": "cea-location",
+      "text": "PUP CEA is located at the NDC Compound, Pureza St., Santa Mesa, Manila. Separate from the Main Campus.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-building-hours",
+      "text": "CEA Building at NDC Compound is open from 6:30 AM to 8:30 PM on weekdays. Weekend access requires permission.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-library",
+      "text": "CEA Library on 3rd Floor has engineering/architecture collections. Open 8:00 AM to 6:00 PM. ID required.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-computer-labs",
+      "text": "CEA Computer Labs on 4th Floor for AutoCAD, Revit, and engineering software. Lab schedule posted weekly.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-drafting-rooms",
+      "text": "Drafting Rooms on 3rd Floor for architecture/engineering drawing classes. Personal tools not provided.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-auditorium",
+      "text": "CEA Auditorium seats 300. Reservation requires Dean's approval at least 2 weeks in advance.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-student-lounge",
+      "text": "Student Lounge on 2nd Floor open for breaks. Maintain cleanliness; food allowed only in designated areas.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-research-center",
+      "text": "CEA Research Center on 4th Floor supports thesis and faculty research. Access requires faculty endorsement.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-parking",
+      "text": "Limited parking at NDC Compound for faculty/staff only. Student parking extremely limited; no overnight parking.",
+      "category": "CEA"
+    },
+    {
+      "id": "cea-canteen",
+      "text": "CEA Canteen operates 7:00 AM to 6:00 PM. Cash only. Vegetarian options available.",
+      "category": "CEA"
+    },
+    {
+      "id": "caf-location",
+      "text": "CAF is located at the Main Campus, Sta. Mesa. The CAF Building is near the Main Library.",
+      "category": "CAF"
+    },
+    {
+      "id": "caf-deans-office",
+      "text": "CAF Dean's Office is on the 2nd Floor. Handles academic concerns, petitions, and approvals.",
+      "category": "CAF"
+    },
+    {
+      "id": "cpa-review-center",
+      "text": "CPA Review Center offers review sessions for graduating students. Registration opens each semester.",
+      "category": "CAF"
+    },
+    {
+      "id": "caf-computer-lab",
+      "text": "CAF Computer Lab on 3rd Floor has accounting software (QuickBooks, SAP). Lab card required.",
+      "category": "CAF"
+    },
+    {
+      "id": "caf-jpia-office",
+      "text": "JPIA (Junior Philippine Institute of Accountants) office is in the CAF Student Lounge.",
+      "category": "CAF"
+    },
+    {
+      "id": "caf-tax-laboratory",
+      "text": "Tax Laboratory simulates BIR processes. Used for tax accounting courses only.",
+      "category": "CAF"
+    },
+    {
+      "id": "caf-audit-room",
+      "text": "Audit Simulation Room for auditing courses. Reservation through department chair.",
+      "category": "CAF"
+    },
+    {
+      "id": "caf-resource-center",
+      "text": "CAF Resource Center has accounting standards, journals, and past board exam materials.",
+      "category": "CAF"
+    },
+    {
+      "id": "caf-scholarships",
+      "text": "CAF-specific scholarships available. Inquire at the Dean's Office each semester.",
+      "category": "CAF"
+    },
+    {
+      "id": "caf-alumni-network",
+      "text": "CAF Alumni Network offers mentoring and job placement. Connect via CAF Alumni Office.",
+      "category": "CAF"
+    },
+    {
+      "id": "cal-location",
+      "text": "CAL is at the Main Campus, Sta. Mesa. The CAL Building houses humanities departments.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-writing-center",
+      "text": "CAL Writing Center offers free writing tutorials. Schedule at the Dean's Office.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-theater",
+      "text": "CAL Theater seats 200. Used for performances, rehearsals, and classes. Reservation required.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-language-lab",
+      "text": "Language Laboratory on 3rd Floor for foreign language courses. Headset provided.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-publication-office",
+      "text": "'Malay' Literary Journal office on 2nd Floor accepts student submissions annually.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-art-gallery",
+      "text": "CAL Art Gallery exhibits student and faculty works. Visiting hours: 9:00 AM to 4:00 PM.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-radio-studio",
+      "text": "CAL Radio Studio for broadcasting students. Requires faculty supervision.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-research-room",
+      "text": "CAL Research Room for thesis writing. Quiet area with reference materials.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-faculty-lounge",
+      "text": "CAL Faculty Lounge on 2nd Floor. Student consultations by appointment only.",
+      "category": "CAL"
+    },
+    {
+      "id": "cal-cultural-events",
+      "text": "CAL organizes poetry readings, film screenings, and cultural talks. Calendar posted monthly.",
+      "category": "CAL"
+    },
+    {
+      "id": "cba-location",
+      "text": "CBA is at the Main Campus, Sta. Mesa. CBA Building is near the South Gate.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-deans-office",
+      "text": "CBA Dean's Office on 3rd Floor handles business program concerns and approvals.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-case-study-rooms",
+      "text": "Case Study Rooms equipped for business simulations. Reserve through department secretaries.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-trading-room",
+      "text": "Trading Room simulates stock market for finance courses. Access during scheduled sessions.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-incubator-space",
+      "text": "Entrepreneurship Incubator supports student startups. Apply each semester.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-mba-office",
+      "text": "MBA Program Office handles graduate business programs. Separate from undergraduate office.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-research-center",
+      "text": "Business Research Center provides market data and research tools for thesis.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-computer-lab",
+      "text": "CBA Computer Lab has business software (SPSS, Stata). Open for enrolled business students.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-lecture-hall",
+      "text": "CBA Lecture Hall seats 150. Used for seminars and guest speaker events.",
+      "category": "CBA"
+    },
+    {
+      "id": "cba-alumni-mentoring",
+      "text": "CBA Alumni Mentoring Program connects students with business professionals.",
+      "category": "CBA"
+    },
+    {
+      "id": "coc-location",
+      "text": "COC is at the Main Campus, Sta. Mesa. The COC Building houses media facilities.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-tv-studio",
+      "text": "COC TV Studio with broadcast equipment. Requires faculty supervision and reservation.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-radio-booth",
+      "text": "Radio Broadcasting Booth for on-air training. Schedule through studio manager.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-editing-suites",
+      "text": "Video Editing Suites with Adobe Suite. Priority for production classes.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-equipment-room",
+      "text": "Equipment Room loans cameras, audio gear. Requires ID deposit and production permit.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-newsroom",
+      "text": "PUP Newsroom produces campus news. Open to COC students interested in journalism.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-screening-room",
+      "text": "Screening Room for film viewings and critiques. Seats 50.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-photo-studio",
+      "text": "Photography Studio with lighting equipment. For photography classes only.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-research-center",
+      "text": "Communication Research Center assists with surveys and data analysis.",
+      "category": "COC"
+    },
+    {
+      "id": "coc-production-office",
+      "text": "Student Production Office for organizing media projects. Key access required.",
+      "category": "COC"
+    },
+    {
+      "id": "ccis-location",
+      "text": "CCIS is at the Main Campus, Sta. Mesa. CCIS Building is adjacent to Main Library.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-server-room",
+      "text": "Server Room access restricted to authorized personnel only. No student access without faculty.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-networking-lab",
+      "text": "Networking Laboratory for CCNA/network courses. Equipment must not be removed.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-software-lab",
+      "text": "Software Development Lab for programming courses. Open 8:00 AM to 8:00 PM.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-cyber-range",
+      "text": "Cybersecurity Range for ethical hacking courses. Isolated network environment.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-project-room",
+      "text": "Capstone Project Room for thesis groups. Reserve one month in advance.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-hardware-lab",
+      "text": "Hardware Laboratory for computer assembly and repair courses. Tools provided.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-coding-dojo",
+      "text": "Coding Dojo for practice and competitions. Open during coding club hours.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-data-center",
+      "text": "Data Center access requires special permission. For advanced courses only.",
+      "category": "CCIS"
+    },
+    {
+      "id": "ccis-gaming-lab",
+      "text": "Game Development Lab for game design courses. Specialized equipment available.",
+      "category": "CCIS"
+    },
+    {
+      "id": "coed-location",
+      "text": "COED is at the Main Campus, Sta. Mesa. COED Building houses education departments.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-demo-classrooms",
+      "text": "Demonstration Classrooms with observation mirrors for teaching practicums.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-materials-center",
+      "text": "Instructional Materials Center provides teaching aids and lesson plan samples.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-child-dev-center",
+      "text": "Child Development Center for early childhood education practicum.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-let-review",
+      "text": "LET Review Sessions offered each semester. Registration at COED Dean's Office.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-practice-teaching",
+      "text": "Practice Teaching Office coordinates school placements for student teachers.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-curriculum-lab",
+      "text": "Curriculum Laboratory for developing teaching modules and materials.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-assessment-center",
+      "text": "Assessment Center for educational testing and evaluation training.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-resource-library",
+      "text": "Education Resource Library with textbooks and teaching references.",
+      "category": "COED"
+    },
+    {
+      "id": "coed-faculty-lounge",
+      "text": "COED Faculty Lounge for student consultations. Sign-up sheet at entrance.",
+      "category": "COED"
+    }
+  ]

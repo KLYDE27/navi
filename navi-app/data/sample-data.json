@@ -1,0 +1,136 @@
+{
+	"faqs": [
+		{
+			"id": "f1",
+			"category": "Enrollment",
+			"question": "How do I request a change of subject?",
+			"answer": "You need to fill out the 'Change of Subject' form at the Registrar's office during the first week of classes. Ensure you have your Dean's signature."
+		},
+		{
+			"id": "f2",
+			"category": "Facilities",
+			"question": "Where is the 24/7 Study Hall?",
+			"answer": "The 24/7 Study Hall is located on the 2nd floor of the Student Center, right next to the cafeteria."
+		}
+	],
+	"subjects": [
+		{
+			"id": "math",
+			"name": "Mathematics",
+			"icon": "Calculator",
+			"description": "Algebra, calculus, geometry, and more"
+		},
+		{
+			"id": "science",
+			"name": "Science",
+			"icon": "FlaskConical",
+			"description": "Physics, chemistry, biology"
+		},
+		{
+			"id": "english",
+			"name": "English",
+			"icon": "BookOpen",
+			"description": "Literature, writing, grammar"
+		},
+		{
+			"id": "history",
+			"name": "History",
+			"icon": "Globe",
+			"description": "World history, social studies"
+		},
+		{
+			"id": "programming",
+			"name": "Programming",
+			"icon": "Code",
+			"description": "Coding, algorithms, software development"
+		},
+		{
+			"id": "general",
+			"name": "General Studies",
+			"icon": "GraduationCap",
+			"description": "General homework help and study tips"
+		}
+	],
+	"user": {
+		"name": "John Doe",
+		"email": "john.doe@university.edu",
+		"course": "Computer Science",
+		"studentId": "2024-12345",
+		"profileImage": null,
+		"points": 1250
+	},
+	"chats": [
+		{
+			"id": "chat1",
+			"modelType": "Campus Navigator",
+			"lastMessage": "Where is the library located?",
+			"timestamp": "2024-01-15T10:30:00Z",
+			"messages": [
+				{
+					"id": "m1",
+					"role": "assistant",
+					"text": "Hi! I'm Campus Navigator. How can I help on campus today?"
+				},
+				{
+					"id": "m2",
+					"role": "user",
+					"text": "Where is the library located?"
+				},
+				{
+					"id": "m3",
+					"role": "assistant",
+					"text": "The main library is located in Building A, on the second floor. It's open from 8 AM to 10 PM on weekdays."
+				}
+			]
+		},
+		{
+			"id": "chat2",
+			"modelType": "AI Tutor",
+			"subject": "math",
+			"lastMessage": "Can you explain derivatives?",
+			"timestamp": "2024-01-14T14:20:00Z",
+			"messages": [
+				{
+					"id": "m1",
+					"role": "assistant",
+					"text": "Hi! I'm your Mathematics tutor. How can I help you today?"
+				},
+				{
+					"id": "m2",
+					"role": "user",
+					"text": "Can you explain derivatives?"
+				},
+				{
+					"id": "m3",
+					"role": "assistant",
+					"text": "A derivative represents the rate of change of a function. It tells us how a function's output changes as its input changes."
+				}
+			]
+		},
+		{
+			"id": "chat3",
+			"modelType": "AI Tutor",
+			"subject": "programming",
+			"lastMessage": "What's the difference between let and const?",
+			"timestamp": "2024-01-13T09:15:00Z",
+			"messages": [
+				{
+					"id": "m1",
+					"role": "assistant",
+					"text": "Hi! I'm your Programming tutor. How can I help you today?"
+				},
+				{
+					"id": "m2",
+					"role": "user",
+					"text": "What's the difference between let and const?"
+				},
+				{
+					"id": "m3",
+					"role": "assistant",
+					"text": "Both `let` and `const` are block-scoped, but `const` cannot be reassigned after declaration, while `let` can be."
+				}
+			]
+		}
+	]
+}
+
